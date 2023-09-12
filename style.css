@@ -1,0 +1,40 @@
+img {
+  border: 3px solid;
+}
+ 
+.photo {
+  border: 5px solid;
+}
+
+p {
+  color: white; 
+  text-align: center;
+  display: inline;
+  width: 50%;
+  font-family: 'Special Elite', cursive;
+}
+.b1 {
+  padding-top: 5rem;
+  
+  text-align: left;
+}
+
+.h {
+  text-align: center;
+  color: white;
+font-family: 'Special Elite', cursive;
+
+
+}
+
+div.card {
+  display: inline-block;
+margin: auto;
+
+}
+.aboutme {
+
+}
+h5 {
+  font-family: 'Special Elite', cursive;
+}
